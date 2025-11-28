@@ -118,7 +118,6 @@ const Footer = () => {
               </div>
               <div>
                 <h3 className="text-2xl font-bold text-white">SKP Developers</h3>
-                <p className="text-gray-400">Software Solutions</p>
               </div>
             </div>
             <p className="text-gray-400 mb-6 max-w-md">
