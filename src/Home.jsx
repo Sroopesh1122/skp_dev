@@ -45,7 +45,7 @@ const Header = () => {
             </div>
             <div>
               <h1 className="text-xl font-bold text-gray-900">SKP Developers</h1>
-              <p className="text-xs text-gray-500">Software Solutions</p>
+              {/* <p className="text-xs text-gray-500">Software Solutions</p> */}
             </div>
           </div>
 
