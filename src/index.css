@@ -7,4 +7,5 @@
 
 html, body{
     background: "white";
+    scroll-behavior: smooth;
 }
